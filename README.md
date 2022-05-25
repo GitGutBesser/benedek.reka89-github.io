@@ -1,2 +1,2 @@
-# benedek.reka89-github.io
+# benedek.reka89.github.io
 demo page
